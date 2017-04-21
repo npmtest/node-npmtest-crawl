@@ -1,0 +1,24 @@
+<svg height="334" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="334" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-21 23:50:25 +0000    31534 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 23:50:25 +0000     1055 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 23:50:25 +0000     4772 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 23:50:25 +0000     3653 bytes  bin/crawl</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 23:50:25 +0000      130 bytes  index.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 23:50:25 +0000     6261 bytes  lib/crawler.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 23:50:25 +0000     4671 bytes  lib/differencer.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 23:50:25 +0000      239 bytes  lib/index.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 23:50:25 +0000     7319 bytes  package.json</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 23:50:25 +0000      108 bytes  test/assets/html/site1-left.html</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 23:50:25 +0000      108 bytes  test/assets/html/site1-right.html</tspan>
+<tspan x="10" y="202"> 11.  2017-04-21 23:50:25 +0000      108 bytes  test/assets/html/site2-left.html</tspan>
+<tspan x="10" y="218"> 12.  2017-04-21 23:50:25 +0000      123 bytes  test/assets/html/site2-right.html</tspan>
+<tspan x="10" y="234"> 13.  2017-04-21 23:50:25 +0000      171 bytes  test/assets/json/site1-left.json</tspan>
+<tspan x="10" y="250"> 14.  2017-04-21 23:50:25 +0000      171 bytes  test/assets/json/site1-right.json</tspan>
+<tspan x="10" y="266"> 15.  2017-04-21 23:50:25 +0000      171 bytes  test/assets/json/site2-left.json</tspan>
+<tspan x="10" y="282"> 16.  2017-04-21 23:50:25 +0000      171 bytes  test/assets/json/site2-right.json</tspan>
+<tspan x="10" y="298"> 17.  2017-04-21 23:50:25 +0000     2231 bytes  test/crawler.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-21 23:50:25 +0000       72 bytes  test/mocha.opts</tspan>
+</text>
+</svg>
